@@ -1,9 +1,9 @@
 name: SW_svile
-author: svile
+author: PBEDevelopmentTeam
 description: SkyWars plugin
 main: svile\sw\SWmain
 version: 0.7dev
-api: [3.0.0-ALPHA8, 3.0,0-ALPHA9]
+api: [3.0.0-ALPHA8, 3.0,0-ALPHA9, 3.0.0, 3.1.0, 3.2.0]
 load: STARTUP
 
 commands:
