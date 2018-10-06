@@ -69,7 +69,7 @@ use pocketmine\utils\TextFormat;
 use pocketmine\math\Vector3;
 
 
-class SWlistener implements Listener
+class SWlistener extends Pluginbase implements Listener
 {
     /** @var SWmain */
     private $pg;
